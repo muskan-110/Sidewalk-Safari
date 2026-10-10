@@ -8,7 +8,7 @@ Built for the [Hacktoberfest Open-Source AI Challenge, Week 1: Touch Grass](http
 
 
 [![Hacktoberfest 2026](https://img.shields.io/badge/Hacktoberfest-2026-orange?logo=hacktoberfest&logoColor=white)](https://hacktoberfest.com)
-[![DEV Challenge](https://img.shields.io/badge/DEV%20Challenge-Build%20for%20a%20Friend-black?logo=devdotto&logoColor=white)](https://dev.to)
+[![DEV Challenge](https://img.shields.io/badge/DEV%20Challenge-Touch%20Grass-black?logo=devdotto&logoColor=white)](https://dev.to)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
 ![Backend](https://img.shields.io/badge/Backend-FastAPI-009688?logo=fastapi&logoColor=white)
 ![Frontend](https://img.shields.io/badge/Frontend-React%20%2B%20Vite-20232A?logo=react&logoColor=61DAFB)
