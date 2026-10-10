@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Three Shades of Green",
+    "task": "Find a single leaf, or a patch of leaves, that shows at least three different shades of green.",
+    "hint": "Look at the underside, the veins, and the edges. New growth is often lighter.",
+    "minutes": 3,
+    "learn": "Leaf color changes with age, sunlight, and chlorophyll concentration."
+  },
+  {
+    "title": "Who Visited This Plant?",
+    "task": "Look for a sign that an insect has been on a plant: a nibbled edge, a tiny hole, or a curled leaf.",
+    "hint": "Check the lower leaves and the edges, where chewing damage is easiest to spot.",
+    "minutes": 3,
+    "learn": "Insects leave traces on plants long after they are gone, and these traces show who feeds on what."
+  },
+  {
+    "title": "Leaf Shape Showdown",
+    "task": "Find two leaves with clearly different shapes and notice three differences between them.",
+    "hint": "Compare the edges, the tip, and how the veins branch.",
+    "minutes": 4,
+    "learn": "Leaf shape affects how a plant catches light and sheds water."
+  },
+  {
+    "title": "Shadow Detective",
+    "task": "Pick one tree and watch how sunlight and shadow change the look of its trunk and leaves.",
+    "hint": "Look at the same spot from the sunny side and the shady side.",
+    "minutes": 3,
+    "learn": "Light and shade change color and texture, and plants grow differently on the bright and dim sides."
+  },
+  {
+    "title": "Nature's Geometry",
+    "task": "Find a natural pattern that looks like a geometric shape, such as a spiral, hexagon, or star.",
+    "hint": "Try flower centers, bark cracks, seed heads, and the way branches split.",
+    "minutes": 4,
+    "learn": "Many natural patterns repeat because they are efficient ways to pack, grow, or branch."
+  },
+  {
+    "title": "Texture Hunt",
+    "task": "Find three different natural textures close to you, such as rough, smooth, and fuzzy, using only your eyes.",
+    "hint": "Bark, stones, moss, and leaf surfaces all differ more than you would expect.",
+    "minutes": 3,
+    "learn": "Surface texture helps plants hold water, resist pests, or protect themselves from sun."
+  }
+]
