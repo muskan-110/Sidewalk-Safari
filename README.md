@@ -5,6 +5,8 @@
 Sidewalk Safari uses a local open-weight language model (Gemma 3 4B via Ollama) to write three short observation missions for your walk. You put your phone away, find them in the real world, then come back and record what you noticed in a field journal saved in your browser.
 
 Built for the [Hacktoberfest Open-Source AI Challenge, Week 1: Touch Grass](https://dev.to/challenges/hacktoberfest-week1-2026-10-05).
+
+
 [![Hacktoberfest 2026](https://img.shields.io/badge/Hacktoberfest-2026-orange?logo=hacktoberfest&logoColor=white)](https://hacktoberfest.com)
 [![DEV Challenge](https://img.shields.io/badge/DEV%20Challenge-Build%20for%20a%20Friend-black?logo=devdotto&logoColor=white)](https://dev.to)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
@@ -16,7 +18,7 @@ Built for the [Hacktoberfest Open-Source AI Challenge, Week 1: Touch Grass](http
 
 
 ![Landing screen](docs/screenshots/main_page.png)
-![Active safari](docs/screenshots/active.png)
+![Active safari](docs/screenshots/activepage.png)
 ![Completion and field journal](docs/screenshots/complete.png)
 
 ## Features
